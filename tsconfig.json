@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "esModuleInterop": true,
+    "module": "commonjs",
+    "strict": false,
+    "types": ["node", "jest"],
+    "jsx": "react",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "allowImportingTsExtensions": true
+  }
+}
